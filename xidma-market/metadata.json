@@ -1,0 +1,6 @@
+{
+  "name": "Xidma Market - Marché Mouride",
+  "description": "Place de marché communautaire pour valoriser le savoir-faire, les produits artisanaux et les services des disciples de Cheikh Ahmadou Bamba au Sénégal et dans la diaspora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
